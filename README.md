@@ -1,4 +1,4 @@
-## Oiii eu sou a Isadora Farache, estudante de Ciências da Computação!
+## Oiii eu sou a Isa, estudante de Ciências da Computação, seja bem vindo!
 
 Desenvolvedora Front-end dedicada e apaixonada por tecnologia.
 
