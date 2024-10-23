@@ -1,6 +1,7 @@
-## Oiii eu sou a Isa, estudante de Ciências da Computação, seja bem vindo!
+## Oiii eu sou a Isa, seja bem vindo!
 
 Desenvolvedora Front-end dedicada e apaixonada por tecnologia.
+Estudante de Ciências da Computação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
